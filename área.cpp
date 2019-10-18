@@ -22,4 +22,4 @@ int main(){ //Programa para calcular a area de comodos
     printf("\nTotal Da Area --> %.2fm^2\n",area); //valor total encontrado
     getch();
     return 0;
-} se
+} 
